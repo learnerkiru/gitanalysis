@@ -1,5 +1,7 @@
 First Test File Added for Git Learn
+<<<<<<< HEAD
 
 1. Eating Sweets
 2. Eating Spices
-3. Drinking Milk
+=======
+>>>>>>> parent of 79cc03b... Sweet
