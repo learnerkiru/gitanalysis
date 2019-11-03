@@ -2,3 +2,5 @@ First Test File Added for Git Learn
 
 1. Eating Sweets
 2. Eating Spices
+3. Drinking Milk
+4. Eating Rice
