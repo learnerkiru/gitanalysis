@@ -5,3 +5,8 @@ First Test File Added for Git Learn
 3. Drinking Milk
 4. Eating Rice  
 5. Drinking Water
+
+// New Feature Added
+1. Cook
+2. Fry 
+3. Eat
