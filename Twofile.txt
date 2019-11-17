@@ -1,0 +1,4 @@
+File two
+================
+
+This is the content of the second the file.
